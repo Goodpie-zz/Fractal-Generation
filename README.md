@@ -1,5 +1,5 @@
 # Fractal-Generation
-Collection of fractal generation algorithms mainly based off of http://www.gameprogrammer.com/fractal.html
+Collection of fractal generation algorithms mainly based off of http://www.gameprogrammer.com/fractal.html. Programming done in Python 2.7.5 using the PyGame Library.
 
 ## Midpoint Displacement
 
